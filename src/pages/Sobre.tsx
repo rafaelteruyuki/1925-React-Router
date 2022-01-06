@@ -1,6 +1,4 @@
 import React from 'react'
-
-
 import '../assets/css/componentes/cartao.css'
 
 const Sobre = () => {
@@ -14,10 +12,10 @@ const Sobre = () => {
         <article className="cartao">
           O blog do doguito foi criado para tirar diversas dúvidas sobre o mundo pet!!!
         </article>
-        
+
       </section>
     </main>
-  )
+  );
 }
 
-export default Sobre
+export default Sobre;
