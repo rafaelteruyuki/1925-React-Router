@@ -1,7 +1,7 @@
-import React from 'react'
+import { FunctionComponent } from 'react'
 import '../assets/css/componentes/cartao.css'
 
-const Sobre = () => {
+const Sobre: FunctionComponent = () => {
 
   return (
     <main>
